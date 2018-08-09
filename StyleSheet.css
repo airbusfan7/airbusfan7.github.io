@@ -1,6 +1,13 @@
 ﻿
 
-.topbar { font-size: 15px;} 
+.topbar {
+    font-size: 20px;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    background-color: green;
+    border: 2px solid #4CAF50;
+} 
 #Gallery {background-color:darkgrey}
 #Articles {background-color: white}
 #SocialMedia{ background-color: dimgrey}
@@ -19,10 +26,3 @@ a {
     text-decoration: none;
 }
 
-.topbar {
-    position: -webkit-sticky; /* Safari */
-    position: sticky;
-    top: 0;
-    background-color: green;
-    border: 2px solid #4CAF50;
-} 
