@@ -3,7 +3,7 @@
 .topbar {
     font-size: 20px;
     position: -webkit-sticky; /* Safari */
-    position: sticky;
+    position: fixed;
     top: 0;
     background-color: green;
     border: 2px solid #4CAF50;
