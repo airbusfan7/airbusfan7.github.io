@@ -19,7 +19,37 @@
     background-color: dimgrey;
     font-size: 20px;
 }
-  .Insta:hover { background-color: lightgrey}
+  .Insta:hover { background-color: lightgrey;
+                 width: 150px;
+  }
+.Steam:hover {
+    background-color: lightgrey;
+    width: 150px;
+}
+.Github:hover {
+    background-color: lightgrey;
+    width: 150px;
+}
+.Mail:hover {
+    background-color: lightgrey;
+    width: 150px;
+}
+.Home:hover {
+    background-color: lightgrey;
+    width: 150px;
+}
+.Articles:hover {
+    background-color: lightgrey;
+    width: 150px;
+}
+.Gallery:hover {
+    background-color: lightgrey;
+    width: 150px;
+}
+.Social Media:hover {
+    background-color: lightgrey;
+    width: 150px;
+}
 h1 {text-align: center; 
 
 }
