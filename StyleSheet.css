@@ -22,14 +22,13 @@ h1 {text-align: center;
 
 }
 h4 {
-    font-size: 15px;
+    font-size: 10px;
     font-style: italic;
     color: darkslategrey
 }
 a {
-    font-size: 11px;
+    font-size: 25px;
     color: black;
     text-decoration: none;
 }
 
-.SocialMedia { font-size 20px}
