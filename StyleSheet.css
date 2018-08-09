@@ -1,11 +1,17 @@
 ﻿
-
-.navbar-sticky {
+.navbar {
     font-size: 25px;
-    color:gold;
+    color: gold;
     position: fixed;
     top: 0;
-    background-color:black;
+    background-color: black;
+}
+.navbar-sticky {
+    font-size: 15px;
+    color:black;
+    position: fixed;
+    top: 0;
+    background-color:gold;
    
 } 
 #Gallery {background-color:darkgrey}
