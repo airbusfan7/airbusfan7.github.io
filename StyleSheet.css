@@ -2,9 +2,10 @@
 
 .navbar-sticky {
     font-size: 25px;
-    color:red;
+    color:gold;
     position: fixed;
     top: 0;
+    background-color:black;
    
 } 
 #Gallery {background-color:darkgrey}
