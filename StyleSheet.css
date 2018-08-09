@@ -1,0 +1,22 @@
+﻿
+
+.topbar { font-size: 15px;} 
+.SocialMedia {font-size: 15px;}
+#Gallery {background-color:darkgrey}
+#Articles {background-color: white}
+#SocialMedia{ background-color: dimgrey}
+
+h1 {text-align: center; 
+
+}
+h4 {
+    font-size: 15px;
+    font-style: italic;
+    color: darkslategrey
+}
+a {
+    font-size: 11px;
+    color: black;
+    text-decoration: none;
+}
+
