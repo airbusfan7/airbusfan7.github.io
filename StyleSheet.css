@@ -1,12 +1,11 @@
 ﻿
 
-.topbar {
-    font-size: 20px;
-    position: -webkit-sticky; /* Safari */
+.navbar-sticky {
+    font-size: 25px;
+    color:red;
     position: fixed;
     top: 0;
-    background-color: green;
-    border: 2px solid #4CAF50;
+   
 } 
 #Gallery {background-color:darkgrey}
 #Articles {background-color: white}
