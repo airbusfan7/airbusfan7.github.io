@@ -1,53 +1,57 @@
 ﻿
 .navbar {
     font-size: 25px;
-    color: darkslategray;
+    color:black;
     position: fixed;
     top: 0;
-    background-color:red;
+    background-color: #ff0000;
     height: 30px;
     width: 1920px;
-} 
-#Gallery {background-color:darkgrey;
-              font-size:20px;
+}
+#Home {
+    background-color: #bab8b8;
+    font-size: 20px;
+}
+#Gallery {
+    background-color: #bab8b8;
+    font-size: 20px;
 }
 #Articles {
-    background-color: white;
+    background-color: #bab8b8;
     font-size: 20px;
 }
 #SocialMedia {
-    background-color: dimgrey;
+    background-color: #bab8b8;
     font-size: 20px;
 }
-  .Insta:hover { background-color: lightgrey;
-                 width: 150px;
-  }
+.Insta:hover {
+    background-color: #bc2a8d;
+    width: 150px;
+}
 .Steam:hover {
-    background-color: lightgrey;
+    background-color: #2a475e;
     width: 150px;
 }
 .Github:hover {
-    background-color: lightgrey;
+    background-color: #666666;
     width: 150px;
 }
-.Mail:hover {
-    background-color: lightgrey;
-    width: 150px;
-}
+
+    }
 .Home:hover {
-    background-color: lightgrey;
+    background-color: #ff5656;
     width: 150px;
 }
 .Articles:hover {
-    background-color: lightgrey;
+    background-color: #ff5656;
     width: 150px;
 }
 .Gallery:hover {
-    background-color: lightgrey;
+    background-color: #ff5656;
     width: 150px;
 }
 .SocialMedia:hover {
-    background-color: lightgrey;
+    background-color: #ff5656;
     width: 150px;
 }
 h1 {text-align: center; 
@@ -62,4 +66,32 @@ a {
     font-size: 25px;
     color: black;
     text-decoration: none;
+}
+
+.top {
+    font-size: 10px;
+    color: #9e9e9e;
+}
+  .top:hover {
+        color: #6d6d6d
+    }
+#Canadalink:hover {
+    color: #d1cfcf;
+    width: 150px;
+    position: center;
+}
+#Planeslink:hover {
+    color: #d1cfcf;
+    width: 150px;
+    position: center;
+}
+#Flowerlink:hover {
+    color: #d1cfcf;
+    width: 150px;
+    position: center;
+}
+#Bikinglink:hover {
+    color: #d1cfcf;
+    width: 150px;
+    position: center;
 }
