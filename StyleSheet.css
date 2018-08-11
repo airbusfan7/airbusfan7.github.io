@@ -7,6 +7,7 @@
     background-color: #ff0000;
     height: 40px;
     width: 1920px;
+    
 }
 
 #Home {
@@ -97,3 +98,4 @@ a {
     width: 150px;
     position: center;
 }
+#Welcome {margin-top: 20px;}
