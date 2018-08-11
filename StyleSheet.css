@@ -1,5 +1,4 @@
-﻿
-.navbar {
+﻿.navbar {
     font-size: 25px;
     color: green;
     position: fixed;
@@ -17,19 +16,24 @@
     font-size: 20px;
 }
 
-}
-.Insta:hover, .Steam:hover, .Github:hover {
+.Instagram:hover {
     background-color: #bc2a8d;
     width: 150px;
 }
 
-    }
+.Steam:hover {
+    background-color: #2a475e;
+    width: 150px;
+}
+
+.Github:hover {
+    background-color: #666666;
+    width: 150px;
+}
+
 .Home:hover, .Articles:hover, .Gallery:hover, .SocialMedia:hover {
     background-color: #ff5656;
     width: 150px;
-    height: 40px;
-}
-
 }
 h1 {text-align: center; 
 
@@ -53,7 +57,7 @@ a {
   .top:hover {
         color: #6d6d6d
     }
-.Canadalink:hover, .Planeslink:hover, .Flowerlink:hover, .Bikinglink:hover {
+.Canadalink:hover, .Bikinglink:hover, .Planeslink:hover, .Flowerlink:hover {
     color: #d1cfcf;
     width: 150px;
     position: center;
