@@ -9,54 +9,27 @@
     width: 1920px;
     margin-bottom: 30px;
 }
-#Welcome {color: greenyellow;
-          margin-top:30px;
+.Welcome {color: Black;
+          margin:50px;
 }
-#Home {
+#Home, #Gallery, #Articles, #SocialMedia {
     background-color: #bab8b8;
     font-size: 20px;
 }
-#Gallery {
-    background-color: #bab8b8;
-    font-size: 20px;
+
 }
-#Articles {
-    background-color: #bab8b8;
-    font-size: 20px;
-}
-#SocialMedia {
-    background-color: #bab8b8;
-    font-size: 20px;
-}
-.Insta:hover {
+.Insta:hover, .Steam:hover, .Github:hover {
     background-color: #bc2a8d;
-    width: 150px;
-}
-.Steam:hover {
-    background-color: #2a475e;
-    width: 150px;
-}
-.Github:hover {
-    background-color: #666666;
     width: 150px;
 }
 
     }
-.Home:hover {
+.Home:hover, .Articles:hover, Gallery:hover, .SocialMedia:hover {
     background-color: #ff5656;
     width: 150px;
+    height: 40px;
 }
-.Articles:hover {
-    background-color: #ff5656;
-    width: 150px;
-}
-.Gallery:hover {
-    background-color: #ff5656;
-    width: 150px;
-}
-.SocialMedia:hover {
-    background-color: #ff5656;
-    width: 150px;
+
 }
 h1 {text-align: center; 
 
@@ -80,22 +53,7 @@ a {
   .top:hover {
         color: #6d6d6d
     }
-#Canadalink:hover {
-    color: #d1cfcf;
-    width: 150px;
-    position: center;
-}
-#Planeslink:hover {
-    color: #d1cfcf;
-    width: 150px;
-    position: center;
-}
-#Flowerlink:hover {
-    color: #d1cfcf;
-    width: 150px;
-    position: center;
-}
-#Bikinglink:hover {
+#Canadalink:hover, #Planeslink:hover, #Flowerlink:hover, #Bikinglink:hover {
     color: #d1cfcf;
     width: 150px;
     position: center;
