@@ -12,7 +12,7 @@
 .Welcome {color: Black;
           margin:50px;
 }
-#Home, #Gallery, #Articles, #SocialMedia {
+#Home,#Gallery,#Articles,#SocialMedia {
     background-color: #bab8b8;
     font-size: 20px;
 }
@@ -24,7 +24,7 @@
 }
 
     }
-.Home:hover, .Articles:hover, Gallery:hover, .SocialMedia:hover {
+.Home:hover, .Articles:hover, .Gallery:hover, .SocialMedia:hover {
     background-color: #ff5656;
     width: 150px;
     height: 40px;
@@ -53,7 +53,7 @@ a {
   .top:hover {
         color: #6d6d6d
     }
-#Canadalink:hover, #Planeslink:hover, #Flowerlink:hover, #Bikinglink:hover {
+.Canadalink:hover, .Planeslink:hover, .Flowerlink:hover, .Bikinglink:hover {
     color: #d1cfcf;
     width: 150px;
     position: center;
