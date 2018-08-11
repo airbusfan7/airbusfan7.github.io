@@ -1,15 +1,17 @@
 ﻿
 .navbar {
     font-size: 25px;
-    color: black;
+    color: green;
     position: fixed;
     top: 0;
     background-color: #ff0000;
     height: 40px;
     width: 1920px;
-    
+    margin-bottom: 30px;
 }
-
+#Welcome {color: greenyellow;
+          margin-top:30px;
+}
 #Home {
     background-color: #bab8b8;
     font-size: 20px;
@@ -98,4 +100,3 @@ a {
     width: 150px;
     position: center;
 }
-#Welcome {margin-top: 20px;}
