@@ -1,7 +1,9 @@
-﻿@media (orientation: landscape) {
-    #home {background-color: green}
+﻿@media screen and (orientation: portrait) {
+    #home {
+        background-color: green
+    }
 }
-@media (orientation: landscape) {
+@media screen and (orientation: landscape) {
     #home {
         background-color: red
     }
