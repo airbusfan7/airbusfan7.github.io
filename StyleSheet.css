@@ -74,7 +74,8 @@
         position: center;
     }
 }
-@media screen and (orientation: portrait) {.navbar {
+media-smartphone 
+    .navbar {
     position: fixed;
     top: 0;
     left:0;
