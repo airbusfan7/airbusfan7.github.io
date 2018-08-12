@@ -94,7 +94,7 @@
         transform: scale(3.3);
     }
 }
-@media screen and (orientation: portrait{
+/*@media screen and (orientation: portrait{
     .navbar {
         position: fixed;
         top: 0;
@@ -139,4 +139,4 @@ a {
     color: #9e9e9e;
     font-family: Georgia;
 }
-}
+}*/
