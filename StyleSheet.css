@@ -1,0 +1,8 @@
+﻿@media (orientation: landscape) {
+    #home {background-color: green}
+}
+@media (orientation: landscape) {
+    #home {
+        background-color: red
+    }
+}
