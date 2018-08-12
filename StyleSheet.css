@@ -74,13 +74,12 @@
         position: center;
     }
 }
-media-smartphone
-.navbar {
+@media screen and (orientation: portrait{.navbar {
     position: fixed;
     top: 0;
     left: 0;
     background-color:red;
-    #ff0000; height: 50px;
+   height: 50px;
     width: 100%;
     margin-bottom: 30px;
 }
