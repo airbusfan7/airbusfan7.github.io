@@ -95,8 +95,7 @@
     }
 
     .present {
-        
-        color: red;
+        color: red !important;
         background-color: green;
     }
  }
