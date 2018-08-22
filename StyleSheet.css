@@ -93,14 +93,10 @@
         -ms-transform: scale(3.3);
         transform: scale(3.3);
     }
-
-    .present {
-        color: red !important;
-        background-color: green;
-    }
+    .Present {color: red;}
  }
 
-@media screen and (orientation: portrait{
+@media screen and (orientation: portrait){
     .navbar {
         position: fixed;
         top: 0;
