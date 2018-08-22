@@ -94,6 +94,8 @@
         transform: scale(3.3);
     }
     .Present { width: 1px;
+               color: red;
+             
     }
  }
 
