@@ -93,8 +93,8 @@
         -ms-transform: scale(3.3);
         transform: scale(3.3);
     }
-    .Present { width: 1px;
-               color: red;
+    .Present { width: 100px;
+               color: green;
              
     }
  }
