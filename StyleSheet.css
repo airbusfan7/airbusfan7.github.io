@@ -93,9 +93,10 @@
         -ms-transform: scale(3.3);
         transform: scale(3.3);
     }
-    #Present {
+
+    #present {
         width: auto;
-        color:red;
+        color: red;
         background-color: green;
       
     }
