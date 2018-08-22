@@ -94,7 +94,7 @@
         transform: scale(3.3);
     }
 
-    #present {
+    .present {
         
         color: red;
         background-color: green;
