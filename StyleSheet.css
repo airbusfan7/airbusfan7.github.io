@@ -94,8 +94,8 @@
         transform: scale(3.3);
     }
     #Present {
-        width: 1920px;
-        height: 1080px;
+        width: auto;
+        height:auto;
     }
  }
 
