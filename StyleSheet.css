@@ -93,7 +93,11 @@
         -ms-transform: scale(3.3);
         transform: scale(3.3);
     }
+    #Present {
+        width: 100%;
+    }
  }
+
 @media screen and (orientation: portrait{
     .navbar {
         position: fixed;
