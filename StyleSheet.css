@@ -94,7 +94,8 @@
         transform: scale(3.3);
     }
     #Present {
-        width: 10%;
+        width: auto;
+        color:red;
       
     }
  }
