@@ -93,7 +93,7 @@
         -ms-transform: scale(3.3);
         transform: scale(3.3);
     }
-    .Present {color: red;}
+    #Present {color: red;}
  }
 
 @media screen and (orientation: portrait){
