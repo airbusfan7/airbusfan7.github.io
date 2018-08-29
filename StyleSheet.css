@@ -18,7 +18,7 @@
         margin-top: 70px;
     }
 
-    #Home, #Gallery, #Articles, #SocialMedia {
+    #Home, #Gallery, #Articles, #SocialMedia, #Present {
         background-color: #bab8b8;
         font-size: 20px;
         font-family: Georgia;
@@ -93,10 +93,11 @@
         -ms-transform: scale(3.3);
         transform: scale(3.3);
     }
-    .Present { width: 100%;
-               color: green;
              
-    }
+   #IMG {height: 1080px;
+         width:1920px;
+   }
+   #Canada {background-color: green;}
  }
 
 @media screen and (orientation: portrait){
