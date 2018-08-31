@@ -84,7 +84,7 @@
             color: #6d6d6d
         }
 
-    .Canadalink:hover, .Bikinglink:hover, .Planeslink:hover, .Flowerlink:hover {
+    .Canadalink:hover, .Bikinglink:hover, .Planeslink:hover, .Flowerlink:hover, .FlighttoCanada:hover, .Toronto:hover {
         color: #d1cfcf;
         width: 150px;
         position: center;
@@ -94,11 +94,8 @@
         transform: scale(3.3);
     }
              
-   #IMG {height: 1080px;
-         width:1920px;
-   }
-  #Canada{height:100px;
-          width: 190px;
+   #Canada, #Toronto, #FlighttoCanada {margin: 10px}
+   #IMG {margin: 5px;}
   }
  }
 
