@@ -117,7 +117,7 @@
 }
   }
 
- {
+@media screen and (orientation portrait){
     .navbar {
         position: fixed;
         top: 0;
@@ -133,7 +133,7 @@
     }
 
     #Home, #Gallery, #Articles, #SocialMedia, #Present {
-        background-color:green ;
+        background-color: green;
         font-size: 20px;
         font-family: Georgia;
     }
