@@ -77,9 +77,9 @@
         color:black;
         font-family: Georgia
     }
-    .link {
+    .Link {
         font-size: 25px;
-        color: #65c6f7; !important
+        color: #65c6f7; 
         text-decoration: none;
         font-family: Georgia;
     }
