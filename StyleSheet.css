@@ -117,7 +117,7 @@
 }
   }
 
-@media screen and (orientation portrait){
+@media screen and (orientation: portrait){
     .navbar {
         position: fixed;
         top: 0;
