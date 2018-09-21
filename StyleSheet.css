@@ -66,12 +66,7 @@
         color: darkslategrey;
         font-family: Georgia;
     }
-    .link {
-        font-size: 25px;
-        color: #65c6f7;
-        text-decoration: none;
-        font-family: Georgia;
-    }
+    
     a {
         font-size: 25px;
         color: Black;
@@ -81,6 +76,12 @@
     p { font-size: 25px;
         color:black;
         font-family: Georgia
+    }
+    .link {
+        font-size: 25px;
+        color: #65c6f7;
+        text-decoration: none;
+        font-family: Georgia;
     }
     .top {
         font-size: 10px;
