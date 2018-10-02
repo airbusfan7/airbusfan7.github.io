@@ -4,15 +4,12 @@
     top: 0;
     left: 0;
     background-color: red;
-    height: 25px;
+    height: 50px;
     width: 100%;
     margin-bottom: 30px;
 }
 
-    .navbar:hover {
-        background-color: #21b201;
-        height: 50px;
-    }
+   
 
 .Welcome, .SocialMedia, .Articles, .Gallery {
     margin-top: 70px;
@@ -20,34 +17,13 @@
 
 #Home, #Gallery, #Articles, #SocialMedia, #Present {
     background-color: #bab8b8;
-    font-size: 20px;
+    font-size: 30px;
     font-family: Georgia;
 }
 
-.Instagram:hover {
-    background-color: #bc2a8d;
-    width: 150px;
-}
-
-.Steam:hover {
-    background-color: #2a475e;
-    width: 150px;
-}
-
-.Github:hover {
-    background-color: #666666;
-    width: 150px;
-}
-
-.Homenavbar:hover, .Articlesnavbar:hover, .Gallerynavbar:hover, .SocialMedianavbar:hover {
-    background-color: #29db02;
-    width: 150px;
-    font-size: 40px;
-    height: 100%;
-}
 
 .Home, .Articles, .Gallery, .SocialMedia {
-    font-size: 15px;
+    font-size: 45px;
     margin-top: 25px;
 }
 
@@ -57,54 +33,40 @@ h1 {
 }
 
 h2 {
-    font-size: 28px;
+    font-size: 38px;
 }
 
 h4 {
-    font-size: 10px;
+    font-size: 20px;
     font-style: italic;
     color: darkslategrey;
     font-family: Georgia;
 }
 
 a {
-    font-size: 25px;
+    font-size: 35px;
     color: Black;
     text-decoration: none;
     font-family: Georgia;
 }
 
 p {
-    font-size: 25px;
+    font-size: 35px;
     color: black;
     font-family: Georgia
 }
 
 .Link {
-    font-size: 25px;
+    font-size: 35px;
     color: #65c6f7;
     text-decoration: none;
     font-family: Georgia;
 }
 
 .top {
-    font-size: 10px;
+    font-size: 20px;
     color: #9e9e9e;
     font-family: Georgia;
-}
-
-    .top:hover {
-        color: #6d6d6d
-    }
-
-.Canadalink:hover, .Bikinglink:hover, .Planeslink:hover, .Flowerlink:hover, .FlighttoCanada:hover, .Toronto:hover {
-    color: #d1cfcf;
-    width: 150px;
-    position: center;
-    font-size: 40px;
-    -webkit-transform: scale(3.3);
-    -ms-transform: scale(3.3);
-    transform: scale(3.3);
 }
 
 #Canada, #Toronto, #FlighttoCanada {
