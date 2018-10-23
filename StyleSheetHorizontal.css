@@ -97,7 +97,7 @@
             color: #6d6d6d
         }
 
-    .Canadalink:hover, .Bikinglink:hover, .Planeslink:hover, .Flowerlink:hover, .FlighttoCanada:hover, .Toronto:hover {
+    .Canadalink:hover, .Bikinglink:hover, .Planeslink:hover, .Flowerlink:hover, .FlighttoCanada:hover, .Toronto:hover, .Draglink:hover {
         color: #d1cfcf;
         width: 150px;
         position: center;
@@ -107,7 +107,7 @@
         transform: scale(3.3);
     }
 
-    #Canada, #Toronto, #FlighttoCanada {
+    #Canada, #Toronto, #FlighttoCanada, #Drag {
         margin: 10px
     }
 
