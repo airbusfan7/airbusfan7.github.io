@@ -3,7 +3,7 @@
     position: fixed;
     top: 0;
     left: 0;
-    background-color: red;
+    background-color: #f9f9f9;
     height: 50px;
     width: 100%;
     margin-bottom: 30px;
@@ -16,7 +16,7 @@
 }
 
 #Home, #Gallery, #Articles, #SocialMedia, #Present {
-    background-color: #bab8b8;
+    background-color: #f9f9f9;
     font-size: 30px;
     font-family: Georgia;
 }
@@ -30,6 +30,7 @@
 h1 {
     text-align: center;
     font-family: Georgia;
+    color: #318cfc;
 }
 
 h2 {
@@ -58,7 +59,7 @@ p {
 
 .Link {
     font-size: 35px;
-    color: #65c6f7;
+    color: #d82b2b;
     text-decoration: none;
     font-family: Georgia;
 }
@@ -69,6 +70,10 @@ p {
     font-family: Georgia;
 }
 
-#Canada, #Toronto, #FlighttoCanada {
-    margin: 10px
+#Canada, #Toronto, #FlighttoCanada, #Drag, #Biking, #Planes, #Flower {
+    margin: 10px;
+    color: #318cfc;
+}
+
+
 }

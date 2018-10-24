@@ -1,28 +1,28 @@
 ﻿
-    .navbar {
-        position: fixed;
-        top: 0;
-        left: 0;
-        background-color: #1a9100;
-        height: 25px;
-        width: 100%;
-        margin-bottom: 30px;
-    }
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #49c8ff;
+    height: 25px;
+    width: 100%;
+    margin-bottom: 30px;
+}
 
-        .navbar:hover {
-            background-color: #21b201;
-            height: 50px;
-        }
+    .navbar:hover {
+        background-color: #32bffc;
+        height: 50px;
+    }
 
     .Welcome, .SocialMedia, .Articles, .Gallery {
         margin-top: 70px;
     }
 
-    #Home, #Gallery, #Articles, #SocialMedia, #Present {
-        background-color: #bab8b8;
-        font-size: 20px;
-        font-family: Georgia;
-    }
+#Home, #Gallery, #Articles, #SocialMedia, #Present {
+    background-color: #f9f9f9;
+    font-size: 20px;
+    font-family: Georgia;
+}
 
     .Instagram:hover {
         background-color: #bc2a8d;
@@ -38,23 +38,28 @@
         background-color: #666666;
         width: 150px;
     }
-
-    .Homenavbar:hover, .Articlesnavbar:hover, .Gallerynavbar:hover, .SocialMedianavbar:hover {
-        background-color: #29db02;
-        width: 150px;
-        font-size: 40px;
-        height: 100%;
-    }
+.Strava:hover {
+    background-color: #FC4C02;
+    width: 150px;
+}
+.Homenavbar:hover, .Articlesnavbar:hover, .Gallerynavbar:hover, .SocialMedianavbar:hover {
+    background-color: #32bffc;
+    color: #318cfc;
+    width: 150px;
+    font-size: 40px;
+    height: 100%;
+}
 
     .Home, .Articles, .Gallery, .SocialMedia {
         font-size: 15px;
         margin-top: 25px;
     }
 
-    h1 {
-        text-align: center;
-        font-family: Georgia;
-    }
+h1 {
+    text-align: center;
+    font-family: Georgia;
+    color: #318cfc;
+}
 
     h2 {
         font-size: 28px;
@@ -80,12 +85,12 @@
         font-family: Georgia
     }
 
-    .Link {
-        font-size: 25px;
-        color: #65c6f7;
-        text-decoration: none;
-        font-family: Georgia;
-    }
+.Link {
+    font-size: 25px;
+    color: #d82b2b;
+    text-decoration: none;
+    font-family: Georgia;
+}
 
     .top {
         font-size: 10px;
@@ -97,17 +102,18 @@
             color: #6d6d6d
         }
 
-    .Canadalink:hover, .Bikinglink:hover, .Planeslink:hover, .Flowerlink:hover, .FlighttoCanada:hover, .Toronto:hover, .Draglink:hover {
-        color: #d1cfcf;
-        width: 150px;
-        position: center;
-        font-size: 40px;
-        -webkit-transform: scale(3.3);
-        -ms-transform: scale(3.3);
-        transform: scale(3.3);
-    }
+.Canadalink:hover, .Bikinglink:hover, .Planeslink:hover, .Flowerlink:hover, .FlighttoCanada:hover, .Toronto:hover, .Draglink:hover {
+    color: #318cfc;
+    width: 150px;
+    position: center;
+    font-size: 40px;
+    -webkit-transform: scale(2.2);
+    -ms-transform: scale(2.2);
+    transform: scale(2.2);
+}
 
-    #Canada, #Toronto, #FlighttoCanada, #Drag {
-        margin: 10px
-    }
+#Canada, #Toronto, #FlighttoCanada, #Drag, #Biking, #Planes, #Flower {
+    margin: 10px;
+    color:#318cfc;
+}
 
