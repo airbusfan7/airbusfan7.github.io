@@ -102,7 +102,7 @@ h1 {
             color: #6d6d6d
         }
 
-.Canadalink:hover, .Bikinglink:hover, .Planeslink:hover, .Flowerlink:hover, .FlighttoCanada:hover, .Toronto:hover, .Draglink:hover, .Torontoarticlelink:hover, .Vancouver1link:hover, .DragRacelink:hover, .Schoollink:hover, .Ridelink:hover {
+.Canadalink:hover, .Bikinglink:hover, .Planeslink:hover, .Flowerlink:hover, .FlighttoCanada:hover, .Toronto:hover, .Draglink:hover, .RockyMountainslink:hover, .Torontoarticlelink:hover, .Vancouver1link:hover, .DragRacelink:hover, .Schoollink:hover, .Ridelink:hover, .Otherlink:hover, .Birthdaylink:hover{
     color: #318cfc;
     width: 150px;
     position: center;
@@ -112,7 +112,7 @@ h1 {
     transform: scale(2.2);
 }
 
-#Canada, #Toronto, #FlighttoCanada, #Drag, #Biking, #Planes, #Flower {
+#Canada, #Toronto, #FlighttoCanada, #Drag, #Biking, #Planes, #Flower, #RockyMountains {
     margin: 10px;
     color:#318cfc;
 }
