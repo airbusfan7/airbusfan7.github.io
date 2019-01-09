@@ -42,6 +42,11 @@
     background-color: #FC4C02;
     width: 150px;
 }
+
+.YouTube:hover {
+    background-color: #c4302b;
+    width: 150px;
+}
 .Homenavbar:hover, .Articlesnavbar:hover, .Gallerynavbar:hover, .SocialMedianavbar:hover {
     background-color: #32bffc;
     color: #318cfc;
@@ -102,7 +107,7 @@ h1 {
             color: #6d6d6d
         }
 
-.Canadalink:hover, .Bikinglink:hover, .Planeslink:hover, .Flowerlink:hover, .FlighttoCanada:hover, .Toronto:hover, .Draglink:hover, .RockyMountainslink:hover, .Torontoarticlelink:hover, .Vancouver1link:hover, .DragRacelink:hover, .Schoollink:hover, .Ridelink:hover, .Otherlink:hover, .Birthdaylink:hover{
+.Canadalink:hover, .Bikinglink:hover, .Planeslink:hover, .Flowerlink:hover, .FlighttoCanada:hover, .Toronto:hover, .Draglink:hover, .RockyMountainslink:hover, .Torontoarticlelink:hover, .Vancouver1link:hover, .DragRacelink:hover, .Schoollink:hover, .Ridelink:hover, .Otherlink:hover, .Birthdaylink:hover, .Seattlelink:hover{
     color: #318cfc;
     width: 150px;
     position: center;
